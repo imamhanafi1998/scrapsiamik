@@ -1,0 +1,32 @@
+{
+  "name": "scrapsiamik",
+  "version": "1.0.0",
+  "description": "Implementasi Webscrap dengan Puppeteer dan Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imamhanafi1998/scrapsiamik.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "scrap",
+    "puppeteer"
+  ],
+  "author": "Imam Hanafi <h.imam1998@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imamhanafi1998/scrapsiamik/issues"
+  },
+  "homepage": "https://github.com/imamhanafi1998/scrapsiamik#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
