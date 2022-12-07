@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/imamhanafi1998/scrapsiamik#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "puppeteer": "^3.0.1"
   },
   "devDependencies": {
